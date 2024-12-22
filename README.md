@@ -68,10 +68,10 @@ These recommendations aim to:
 ## Dashboard Preview
 
 ### Prism Business Health
-[![Dashboard Preview 1](https://github.com/shravya-nallamilli/Prism-data-project-1/blob/6c34c1b2d9d88854457a6966431d7330a09b9d8d/Dashboard%20Preview%201.png?raw=true)](https://github.com/shravya-nallamilli/Prism-Data-Dashboard/blob/6c34c1b2d9d88854457a6966431d7330a09b9d8d/Dashboard%20Preview%201.png)
+[![Dashboard Preview 1](https://github.com/shravya-nallamilli/Prism-data-project-1/blob/4803727fc1f956d515a33bee91233f8e47453ce5/Dashboard%20Preview%201.png?raw=true)](https://github.com/shravya-nallamilli/Prism-data-project-1/blob/4803727fc1f956d515a33bee91233f8e47453ce5/Dashboard%20Preview%201.png)
 
 ### Prism Customer Metrics
-[![Dashboard Preview 2](https://github.com/shravya-nallamilli/Prism-data-project-1/blob/26799d22c0fca53008c670dc3aa03494088fd896/Dashboard%20Preview%202.png?raw=true)](https://github.com/shravya-nallamilli/Prism-Data-Dashboard/blob/26799d22c0fca53008c670dc3aa03494088fd896/Dashboard%20Preview%202.png)
+[![Dashboard Preview 2](https://github.com/shravya-nallamilli/Prism-data-project-1/blob/4803727fc1f956d515a33bee91233f8e47453ce5/Dashboard%20Preview%202.png?raw=true)](https://github.com/shravya-nallamilli/Prism-data-project-1/blob/4803727fc1f956d515a33bee91233f8e47453ce5/Dashboard%20Preview%202.png)
 
 ---
 
